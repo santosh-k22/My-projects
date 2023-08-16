@@ -36,6 +36,7 @@
 // export default App;
 
 // import React from 'react'
+import "./App.css";
 import RouteMe from "./Routes";
 function App() {
     return (
